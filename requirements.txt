@@ -1,0 +1,14 @@
+numpy==2.3.5
+matplotlib==3.10.7
+
+torch==2.9.1+cu130
+stable-baselines3==2.7.0
+
+gymnasium==0.29.1
+
+pyMPC==0.1.1
+osqp>=0.6.2
+scipy>=1.11.0
+
+cloudpickle>=2.2.0
+tqdm>=4.66.0
