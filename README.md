@@ -24,30 +24,6 @@ The project evaluates robustness under **mass variation**, **push disturbances**
 
 ---
 
-## Project Structure
-
-cartpole_MPC_residual_RL/
-│
-├── trained_models/
-│ ├── ppo_cartpole_mpc_residual.zip
-│ └── sac_cartpole_mpc_residual.zip
-│
-├── code/
-│ ├── calc_function.py
-│ ├── cartpole_MPC_RL_env.py
-│ ├── cartpole_MPC_RL_test.py
-│ ├── cartpole_MPC_RL_train.py
-│ ├── PPO_VS_SAC_expC_test.py
-│
-├── report/
-│ ├── Term Project.ppt
-│ ├── Term Project.pdf
-│
-├── README.md
-└── requirements.txt
-
----
-
 ## Training the RL Model
 
 ### Training
